@@ -1,8 +1,10 @@
+
 {
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/",
       "destination": "/HP_Wilo_V132_Ayah_Call_Hack.html"
     }
   ]
 }
+
