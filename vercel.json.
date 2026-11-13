@@ -1,5 +1,11 @@
 
 {
+  "builds": [
+    {
+      "src": "HP_Wilo_V132_Ayah_Call_Hack.html",
+      "use": "@vercel/static"
+    }
+  ],
   "rewrites": [
     {
       "source": "/",
